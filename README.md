@@ -6,7 +6,7 @@ FairLend-Audit
 
 Open:
 
-- `fairlend-interactive-demo.html`
+- `index.html`
 
 This is the new mobile-friendly interactive prototype. It supports:
 
@@ -20,7 +20,7 @@ This is the new mobile-friendly interactive prototype. It supports:
 - independent state per case, so scanning or explaining A1024 does not incorrectly carry over to A1026 or A1027
 - tablet-width navigation support, so the bottom navigation appears as soon as the desktop sidebar is hidden
 
-The older entry `fairlend-clickable-demo.html` now redirects to the interactive demo so the wrong prototype is not opened during presentation.
+The older entry `index.html` now redirects to the interactive demo so the wrong prototype is not opened during presentation.
 
 ## Figma workflow
 
